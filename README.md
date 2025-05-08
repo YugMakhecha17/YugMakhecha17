@@ -33,13 +33,6 @@ I'm always open to:
 
 ---
 
-### 📫 How to Reach Me
-
-- 🔗 [LinkedIn](www.linkedin.com/in/yug-makhecha-417601295)
-- ✉️ [Email](yugmakhecha1710@gmail.com)
-- 🌐 [Portfolio / Blog](https://yug17-portfolio.vercel.app/)
-
----
 
 > _"In pursuit of the unknown..."_ 
 
