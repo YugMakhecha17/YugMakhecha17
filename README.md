@@ -23,7 +23,7 @@ I build **robust, research-driven** solutions that bridge the gap between theory
 ---
 
 
-### 🧩 Let's Collaborate
+###  Let's Collaborate
 
 I'm always open to:
 -  AI research collaborations  
