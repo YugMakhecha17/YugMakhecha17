@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yug Makhecha
+#  Hi, I'm Yug Makhecha
 
 ###  AI |  Machine Learning |  Deep Learning |  Computer Vision |  Researcher
 
@@ -17,7 +17,7 @@ I build **robust, research-driven** solutions that bridge the gap between theory
 I'm always open to:
 -  AI research collaborations  
 -  Building intelligent apps and agentic systems  
-- 🛠 Contributing to open-source ML/DL/CV projects  
+-  Contributing to open-source ML/DL/CV projects  
 -  Guest lectures, hackathons, and mentorships
 
 ---
