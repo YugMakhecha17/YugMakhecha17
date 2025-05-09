@@ -12,17 +12,6 @@ I build **robust, research-driven** solutions that bridge the gap between theory
 
 ---
 
-###  Tech Stack & Tools
-
-- **Languages:** `Python`, `TypeScript`, `JavaScript`,
-- **Frameworks & Libraries:** `PyTorch`, `TensorFlow`, `scikit-learn`, `OpenCV`, `Transformers`, `LangChain`, `Streamlit`, `FastAPI`, `Pandas`, `NumPy`
-- **LLM & NLP:** `LLMs (LLaMA, Mistral, GPT)`, `Embeddings`, `RAG Pipelines`, `Vector Databases (FAISS, Chroma)`
-- **Cloud & Deployment:** `AWS EC2`, `Docker`, `GitHub Actions`
-- **Other Tools:** `Tesseract OCR`, `Postman`, `ScrapeGraphAI`, `BeautifulSoup`, 
-
----
-
-
 ###  Let's Collaborate
 
 I'm always open to:
