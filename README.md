@@ -5,8 +5,8 @@
 
 Location: India  
 📧 yugmakhecha1710@gmail.com  
-🔗 LinkedIn: <[your-link](https://linkedin.com/in/yug-makhecha-417601295)>  
-🌐 Portfolio: <[your-link](http://yug17.vercel.app/)>
+🔗 LinkedIn: <[click-here](https://linkedin.com/in/yug-makhecha-417601295)>  
+🌐 Portfolio: <[click-here](http://yug17.vercel.app/)>
 
 ---
 
