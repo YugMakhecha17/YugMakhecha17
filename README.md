@@ -1,71 +1,188 @@
-# Hi, I'm Yug Makhecha  
+# Yug Makhecha  
+### AI Researcher | ML Systems Engineer | Full-Stack AI Builder
 
-### AI | Machine Learning | Deep Learning | Computer Vision | Research | FullStack |   
+> Building intelligent systems where **research meets production** — focused on transparency, scalability, and real-world impact.
 
----
-
-## About Me  
-
-I'm a passionate **AI/ML Engineer** with a fascination for Deep Learning workings and **Academic Research**, I have hands-on experience in designing, building and deploying intelligent systems that unify **theory and practice**.  
-
-My work spans across:  
-- 🖼️ **Computer Vision** – detection, recognition & visual intelligence  
-- 💬 **Natural Language Processing** – local LLMs, RAG, agentic systems  
-- 📈 **Financial Forecasting & Analysis** – data-driven decision support  
-- 🏙️ **Smart Cities** – traffic management, IoT & deep learning pipelines  
-
-I thrive at the intersection of **research & engineering**, building **robust, scalable, and research-driven** AI solutions.
+Location: India  
+📧 yugmakhecha1710@gmail.com  
+🔗 LinkedIn: <[your-link](https://linkedin.com/in/yug-makhecha-417601295)>  
+🌐 Portfolio: <[your-link](http://yug17.vercel.app/)>
 
 ---
 
-## Tech Stack  
+## Who am I?
 
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+I’m an **AI Researcher and Software Engineer** with a strong fascination for designing and deploying **end-to-end AI systems** across **healthcare, finance, cybersecurity, and enterprise SaaS**.
 
-**Frameworks & Libraries**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+My work sits at the intersection of:
+- **Machine Learning Research**
+- **LLM & RAG Systems**
+- **Full-Stack & Cloud Engineering**
+- **Explainable & Trustworthy AI**
 
-**Databases & Cloud**  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+I don’t build AI because it’s trending —  
+I build it **where it actually matters**.
 
 ---
 
-## Featured Work  
+## My Core Focus Areas
 
-- 🔹 **[Smart City Project](#)** → Deep Learning & IoT for traffic & road safety  
-- 🔹 **[Financial AI Systems](#)** → Forecasting, Monte Carlo simulations, RAG-powered financial assistants  
-- 🔹 **[Agentic AI Architectures](#)** → Local LLMs + Vector Databases + Web Scraping for intelligent systems  
-- 🔹 **[Computer Vision Pipelines](#)** → Automated detection, recognition & vision intelligence
-- 🔹 **[Biomedicine XAI pipelines](#)** → Explainability AI integration in ART (Assisted Reproductive Tech.)
----
-
-## 🤝 Let's Collaborate  
-
-I'm always open to:  
-✔️ AI research collaborations  
-✔️ Building intelligent apps & agentic systems  
-✔️ Contributing to open-source ML/DL/CV projects  
-✔️ Guest lectures, hackathons, and mentorships  
-
-📬 **Reach out:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-makhecha-417601295)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yugmakhecha1710@gmail.com)  
+- **Explainable AI (XAI)** — removing black-box decision making
+- **LLM Systems & RAG Pipelines** — citation-backed, hallucination-resistant AI
+- **AI for Regulated Domains** — healthcare, finance, governance
+- **ML Infrastructure & Automation** — scalable, production-first design
+- **Research → Deployment Pipelines** — models that survive the real world
 
 ---
 
-##  
-> _"In pursuit of the unknown..."_
+## The Tech Stack I Love
+
+### Programming languages I use
+- Python, JavaScript / TypeScript
+
+### I make AI/ML projects with
+- PyTorch, TensorFlow, Hugging Face
+- Scikit-learn, OpenCV, Diffusion Models
+- NLP, Transformers, Time-Series ML
+- Explainable AI (XAI)
+
+### LLM & AI Systems
+- RAG Pipelines, Vector Databases
+- LangChain, LlamaIndex, CrewAI
+- Embeddings, Retrieval Optimization
+- Memory and Token optimizations
+
+### Backend & Infrastructure
+- FastAPI, Flask, REST APIs, Microservices
+- PostgreSQL, MongoDB, Neo4j, ElasticSearch
+- Supabase, Firebase
+
+### Cloud & DevOps
+- AWS, GCP
+- Docker, Kubernetes
+- GitHub Actions, Jenkins, GitLab CI
+- Prometheus, Grafana, ELK Stack
 
 ---
-⭐️ From [Yug Makhecha](https://github.com/YugMakhecha17)
+
+## My Featured Projects
+
+### AI-Powered GST Knowledge Base Agent
+**Applied NLP | RAG | Economics**
+
+- Built a **multi-layered, citation-backed AI system** for GST compliance.
+- Designed **Dynamic, Static, and Analytical data layers**.
+- Automated real-time regulatory updates via crawling pipelines.
+- Delivered **trust-first AI responses** for citizens, enterprises, and officers.
+
+**Tech:** FastAPI, React, LangChain, PostgreSQL, ElasticSearch, Celery, Redis
+
+---
+
+### Enterprise AI SCRUM Automation Platform
+**Enterprise SaaS | NLP | Automation**
+
+- Automated SCRUM ticket reasoning and routing across departments.
+- Reduced cycle time through **AI-driven orchestration**.
+- Built Android app (Flutter) + Spring Boot backend.
+
+**Impact:** Smarter workflows, fewer bottlenecks, faster execution.
+
+---
+
+### CV based Text-Overlay AI (Open Source)
+**Computer Vision | Deep Learning**
+
+- Python library for automated ad creative generation.
+- Used **U²-Net segmentation + custom deep learning pipelines**.
+- No heuristic or prompt-based intelligence — **pure DL**.
+
+**Focus:** Scalable, modular CV systems for creative pipelines.
+
+---
+
+### Intelligent Supplier Discovery & Matching System
+**RAG | Data Intelligence | Supply Chain**
+
+- RAG chatbot for supplier discovery & procurement intelligence.
+- Processed **15,000+ manufacturer profiles across India**.
+- Proposed blockchain-based supplier authentication.
+
+---
+
+### Explainable AI for IVF & Embryo Selection
+**Healthcare AI | Research | XAI**
+
+- Designed interpretable DL models for embryo selection.
+- Focused on removing black-box AI in biomedicine.
+- Enabled clinician-traceable predictions.
+
+**Best Paper Award – ICRCET Conference (2025)**
+
+---
+
+## Experience
+
+### 🔐 ML Cybersecurity Intern — Allianz Cloud
+- Built ML-driven threat detection pipelines.
+- Integrated anomaly detection into production systems.
+- Improved incident response via AI-based alert prioritization.
+
+---
+
+### AI/ML Engineer Intern — Akino Labs
+- Engineered RAG pipelines & HR analytics tools.
+- Built autonomous voice-based enterprise assistants.
+- Automated workflows using Python + n8n.
+
+---
+
+### AI Research Consultant & Lead Researcher — Navrachana University
+- Led healthcare AI & XAI research.
+- Published peer-reviewed papers.
+- Presented at international AI conferences.
+
+---
+
+##  Private & Freelance Systems
+
+- **AI-Powered Digital Marketing Automation Suite**
+- **Private Hedge Fund Intelligence System (Quant + Time-Series ML)**
+- **Full-Stack AI Applications for Finance & Analytics Clients**
+
+---
+
+##  Education
+
+**Bachelor of Computer Applications (BCA)**  
+Navrachana University, Vadodara  
+CGPA: **8.0** | 2023–2026
+
+---
+
+## Recognition
+
+- Best Paper Award — ICRCET Conference (2025)
+- International Research Presentations
+- Student President — BCA, Navrachana University
+
+---
+
+## What I’m Interested In
+
+- Applied AI Research
+- ML Systems & Infrastructure
+- LLM Tooling & Agents
+- Healthcare & Financial AI
+- Building AI that is **transparent, scalable, and accountable**
+
+---
+
+## Let’s Build
+
+If you’re working on:
+- Research-driven AI
+- Production ML systems
+- Early-stage startups or deep-tech products
+
+📩 Reach out — I’m always open to meaningful collaborations.
